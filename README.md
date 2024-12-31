@@ -1,7 +1,7 @@
-Project Report: MERN Stack Chat Application
+MERN Stack Chat Application
 
 Introduction
-This report outlines the development of a MERN-stack chat application that provides user authentication, real-time messaging capabilities, and a modern user interface. The project aims to create a seamless communication tool using contemporary web technologies.
+This file outlines the development of a MERN-stack chat application that provides user authentication, real-time messaging capabilities, and a modern user interface. The project aims to create a seamless communication tool using contemporary web technologies.
 
 
 Project Overview
