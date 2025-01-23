@@ -5,7 +5,7 @@ This file outlines the development of a MERN-stack chat application that provide
 ![image](https://github.com/user-attachments/assets/339beaec-7795-4dae-bd0c-5bb6eae25d9f)
 
 
-Signup page:
+                                         Signup page:
 ![image](https://github.com/user-attachments/assets/243df59b-8835-46d2-8230-9d69d449f136)
 
 Login page:
