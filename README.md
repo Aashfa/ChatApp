@@ -2,10 +2,18 @@ MERN Stack Chat Application
 
 Introduction
 This file outlines the development of a MERN-stack chat application that provides user authentication, real-time messaging capabilities, and a modern user interface. The project aims to create a seamless communication tool using contemporary web technologies.
-![image](https://github.com/user-attachments/assets/243df59b-8835-46d2-8230-9d69d449f136)
-![image](https://github.com/user-attachments/assets/3f68f5b0-015e-4e7b-850f-bdfd6f2300b0)
-![image](https://github.com/user-attachments/assets/7cee1070-2958-4d73-99a7-ec5d4e02f877)
 ![image](https://github.com/user-attachments/assets/339beaec-7795-4dae-bd0c-5bb6eae25d9f)
+
+
+Signup page:
+![image](https://github.com/user-attachments/assets/243df59b-8835-46d2-8230-9d69d449f136)
+
+Login page:
+![image](https://github.com/user-attachments/assets/3f68f5b0-015e-4e7b-850f-bdfd6f2300b0)
+
+Home page:
+![image](https://github.com/user-attachments/assets/7cee1070-2958-4d73-99a7-ec5d4e02f877)
+
 
 
 
@@ -47,11 +55,6 @@ The Protect Route middleware secures specific routes, ensuring only authenticate
 JWT Tokens
 JSON Web Tokens are generated upon successful login and stored in cookies. This token is sent with each request to verify the user's identity, enhancing the security of the application.
 
-Error Handling and Troubleshooting
-•	Common challenges faced during development included:
-•	Importing functions, which sometimes led to runtime errors if forgotten.
-•	Issues with API connectivity, notably situations where GET requests succeeded while POST requests failed.
-•	Ensuring persistent database connections and gracefully handling reconnections.
 
 Local Installation of Nodemon
 Nodemon was installed locally to enable automatic server restarts during development, streamlining the workflow by reducing the need for manual restarts after code changes.
