@@ -33,16 +33,24 @@ The application comprises two main segments:
 
 # Tools and Technologies
 •	Visual Studio Code: The main code editor used for development.
+
 •	Postman: Essential for testing API endpoints and simulating requests.
+
 •	MongoDB Atlas: A cloud-based database service for managing the application’s data.
+
 •	React Router DOM: Used for client-side routing, ensuring smooth page transitions.
+
 •	BcryptJS: Employed for hashing passwords to enhance security.
+
 •	React Hot Toast: Provides user-friendly notifications and error messages.
+
 •	React Bi-Icons: Used for icons, such as the logout button.
 
  # Folder Structure
 The project is organized into clearly defined folders:
+
 Frontend: Contains components, pages, and styles.
+
 Backend: Includes routes, controllers, and models.
 
 # State Management with Zustand
@@ -69,8 +77,11 @@ Postman was instrumental in testing the API, allowing for easy simulation of req
 
 # Frameworks/Libraries
 The project utilizes several frameworks and libraries:
+
 Express.js: For building the backend API.
+
 React.js: For creating the frontend application.
+
 Mongoose: For MongoDB object modeling, facilitating interaction with the database.
 
 # Conclusion
