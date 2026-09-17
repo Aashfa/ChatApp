@@ -26,7 +26,9 @@ The application comprises two main segments:
 
 # Key Features
 •	User Authentication: A secure system is implemented using JSON Web Tokens (JWT) to protect user data and sessions.
+
 •	Messaging System: Users can send and receive messages, with all interactions recorded in a MongoDB database.
+
 •	Responsive Design: Tailwind CSS and DaisyUI are utilized to create a visually appealing and responsive interface with a glassmorphism effect.
 
 # Tools and Technologies
@@ -73,3 +75,5 @@ Mongoose: For MongoDB object modeling, facilitating interaction with the databas
 
 # Conclusion
 This mern-stack chat application project exemplifies the integration of modern web development practices, employing tools and technologies that ensure a secure, efficient, and user-friendly experience. By effectively addressing key functionalities and challenges throughout the development process, this project showcases the capabilities of contemporary web applications.
+
+
