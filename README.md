@@ -1,6 +1,6 @@
 MERN Stack Chat Application
 
-Introduction
+
 This file outlines the development of a MERN-stack chat application that provides user authentication, real-time messaging capabilities, and a modern user interface. The project aims to create a seamless communication tool using contemporary web technologies.
 ![image](https://github.com/user-attachments/assets/339beaec-7795-4dae-bd0c-5bb6eae25d9f)
 
